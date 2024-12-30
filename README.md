@@ -223,8 +223,8 @@ LABEL permissions='\
 }'
 LABEL authors='[\
     {\
-        "name": "Krish Kataria",\
-        "email": "krishk.aeronuts@gmail.com"\
+        "name": "Ishan Sharma",\
+        "email": "Ishan23569@gmail.com"\
     }\
 ]'
 LABEL company='{\
